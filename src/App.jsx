@@ -3,7 +3,7 @@ import Overlay from "./components/Overlay";
 
 function App() {
   return (
-    <div className="min-h-screen">
+    <div>
       <Overlay />
       <Attribution />
     </div>
