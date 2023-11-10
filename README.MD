@@ -1,6 +1,6 @@
 # QR CODE CARD - React Component
 
-This is a React Single Page App put up with Vite. Styling is handled using Tailwind CSS. This is a simple React project show casing an example of a taylor made card component.
+This is a React Single Page App created with Vite. Styling is handled using Tailwind CSS. This is a simple React project show casing an example of a taylor made card component.
 
 ## Frontend Mentor challenges
 
