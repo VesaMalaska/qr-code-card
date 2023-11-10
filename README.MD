@@ -26,4 +26,4 @@ To build the project you can run `npm run build`.
 
 ## Node.js version
 
-Node versions 16 and 18 are the suggested versions to use with this project.
+Node version 18 is the suggested version to use with this project.
