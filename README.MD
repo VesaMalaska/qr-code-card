@@ -14,7 +14,7 @@ You can find a live demo of this project deployed on Vercel.
 
 ## Using this code
 
-You are free to copy and use this code as you want. Clone the project and tweak for your own needs.
+You are free to copy and use this code as you want. Clone the project and tweak for your own needs. If you just want to copy and use the `Card.jsx` component on your existing project which uses Tailwind then please note that there are some custom Tailwind settings in `tailwind.config.cjs` file that you possibly want also to be implemented on your project.
 
 ### Local development
 
