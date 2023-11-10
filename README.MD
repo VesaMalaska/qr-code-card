@@ -4,7 +4,7 @@ This is a React Single Page App created with Vite. Styling is handled using Tail
 
 ## Frontend Mentor challenges
 
-This is my implementation for [Frontend Mentor's](https://www.frontendmentor.io/) `"QR code component"` challenge. Frontend Mentor challenges are a great way to improve your Frontend skills.
+This is my implementation for [Frontend Mentor's](https://www.frontendmentor.io/) **"QR code component"** challenge. Frontend Mentor challenges are a great way to improve your Frontend skills.
 
 ## Live demo
 
